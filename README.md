@@ -1,4 +1,4 @@
-# TypeScript and Jest Project Sample
+# TypeScript and React Project Sample
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.6.4-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.1.0-61DAFB?logo=react)](https://reactjs.org/)
@@ -15,9 +15,9 @@
 | ```@parcel/types```    | ```^2.5.0```  |
 
 ## Scripts
-```npm run serve```: Serve React app
+```npm run serve```: Serve React app with Parcel
 
-```npm run build```: Build React app
+```npm run build```: Build React app with Parcel
 
 ## Directories
 ```src/```: TypeScript source of React app
