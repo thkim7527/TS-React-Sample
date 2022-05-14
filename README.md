@@ -1,23 +1,13 @@
-# TypeScript and React Project Sample
+# TypeScript and React Project Sample with Vite
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.6.4-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18.1.0-61DAFB?logo=react)](https://reactjs.org/)
-[![Parcel](https://img.shields.io/badge/Parcel-2.5.0-C49469?logo=parcel)](https://jestjs.io/)
-
-## Dependencies
-| Dependency             | Version       |
-|------------------------|---------------|
-| ```react```            | ```^18.0.9``` |
-| ```react-dom```        | ```^18.0.3``` |
-| ```@types/react```     | ```^18.1.0``` |
-| ```@types/react-dom``` | ```^18.1.0``` |
-| ```parcel```           | ```^2.5.0```  |
-| ```@parcel/types```    | ```^2.5.0```  |
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.6.4-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18.1.0-61DAFB.svg?logo=react)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/esbuild-0.14.39-FFCF00.svg?logo=esbuild)](https://esbuild.github.io/)
 
 ## Scripts
-```npm run serve```: Serve React app with Parcel
+```npm start```: Run React app with Vite
 
-```npm run build```: Build React app with Parcel
+```npm run build```: Build React app with Vite
 
 ## Directories
 ```src/```: TypeScript source of React app
@@ -25,6 +15,3 @@
 ```public/```: Static source of React app
 
 ```dist/```: Built React app
-
-## To Do
-- Use Jest test

@@ -1,11 +1,10 @@
-import Sample from "./Sample";
+import React from "react";
 
 function App() {
     return (
         <>
-            <Sample />
             <h1>App</h1>
-            <h3>TypeScript and React Sample Project</h3>
+            <h3>TypeScript and React Sample Project with Vite</h3>
         </>
     );
 }
